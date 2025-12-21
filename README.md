@@ -328,4 +328,5 @@ This enables **root-cause analysis** behind department-level performance.
 ---
 
 ✅ **This page acts as the decision-support and root-cause analysis layer of the Pharma Analytics solution.**
-- Dashboard link of Page 3 -
+- Dashboard link of Page 3 - https://github.com/debolina696/Pharma-Inventory-Control-Dashboard-Power-BI-/blob/main/Screenshot%202025-12-20%20210005.png
+- DrillTrhrough Page link - 
