@@ -221,4 +221,111 @@ It helps business and HR leaders:
 ---
 
 ✅ **This page acts as the performance intelligence layer of the Pharma Analytics solution.**
-- Dashboard Link of Page 2 
+- Dashboard Link of Page 2 https://github.com/debolina696/Pharma-Inventory-Control-Dashboard-Power-BI-/blob/main/Screenshot%202025-12-20%20205825.png
+- ---
+
+## 🏢 Page 3: Department Performance & Drill-Through Analysis
+
+### 🎯 Page Objective
+This page provides a **department-level performance analysis** with the ability to **drill through from summary to detailed employee data**.
+
+It enables business leaders to:
+- Compare department-wise sales and performance
+- Track Year-over-Year (YoY) growth trends
+- Analyze contribution, efficiency, and workforce distribution
+- Deep dive into employee-level details using drill-through
+
+---
+
+## 📌 KPI Questions Answered
+- Which departments contribute the most to total sales?
+- How has department performance changed YoY?
+- Which departments show consistent growth or decline?
+- How do employee performance and promotions vary by department?
+- What is the detailed employee profile behind department performance?
+
+---
+
+## 📌 Key KPIs Covered
+- Total Sales by Department  
+- YoY % Sales Growth  
+- Department Contribution %  
+- Employee Count  
+- Avg Performance Score  
+- Avg Sales Efficiency  
+
+---
+
+## 📊 Visuals Used & Business Purpose
+
+- **Department-Wise YoY % Trend (Line Chart)**  
+  Tracks performance growth or decline across years for each department.
+
+- **Department-Wise Sales & Contribution Table**  
+  Compares total sales, YoY growth, and contribution percentage.
+
+- **Department Performance Summary Table**  
+  Shows aggregated KPIs such as efficiency, performance score, and employee count.
+
+- **Year-Wise Growth Indicator**  
+  Highlights overall organizational growth trend.
+
+---
+
+## 🔍 Drill-Through: Department → Employee Details
+
+A **Drill-Through page** is implemented to allow deeper analysis.
+
+### Drill-Through Flow:
+- User selects a **Department** from Page 3 visuals
+- Drill-through navigates to **Employee Detail Breakdown**
+- Displays:
+  - Employee ID
+  - Gender & Age
+  - Tenure & Region
+  - Salary
+  - Projects & Training Hours
+  - Performance Category
+  - Promotion Count
+
+This enables **root-cause analysis** behind department-level performance.
+
+---
+
+## 🧠 Advanced DAX & Calculations Used
+
+- **YoY % Calculation**  
+  `CALCULATE()`, `DATEADD()`
+
+- **Department Contribution %**  
+  Share of department sales vs total sales
+
+- **Dynamic Aggregations**  
+  `SUM()`, `AVERAGE()`
+
+- **Performance Categorization**  
+  Conditional logic using calculated columns
+
+- **Filter Context Handling**  
+  Ensures accurate drill-through results
+
+---
+
+## 🧩 Interactivity & Advanced Features
+- Drill-through enabled for department-level analysis  
+- Cross-filtering across all visuals  
+- Year, Department, and Category slicers  
+- Tooltip support for additional insights  
+
+---
+
+## 💼 Business Value
+- Enables leadership to evaluate department effectiveness
+- Identifies strong and weak performing departments
+- Supports strategic decisions on staffing and investment
+- Provides transparency from high-level KPIs to employee-level data
+
+---
+
+✅ **This page acts as the decision-support and root-cause analysis layer of the Pharma Analytics solution.**
+- Dashboard link of Page 3 -
