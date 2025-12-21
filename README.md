@@ -107,4 +107,4 @@ It helps HR teams identify:
 ---
 
 ✅ **This page forms the HR analytics foundation of the Pharma Analytics solution.**  
-- Dashboard image ilink - Screenshot 2025-12-20 205707.png 
+- Dashboard image ilink - https://github.com/debolina696/Pharma-Inventory-Control-Dashboard-Power-BI-/blob/main/Screenshot%202025-12-20%20205707.png
