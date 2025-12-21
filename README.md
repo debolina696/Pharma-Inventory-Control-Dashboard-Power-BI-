@@ -107,4 +107,4 @@ It helps HR teams identify:
 ---
 
 ✅ **This page forms the HR analytics foundation of the Pharma Analytics solution.**  
-- Dashboard image ilink - 
+- Dashboard image ilink - Screenshot 2025-12-20 205707.png 
