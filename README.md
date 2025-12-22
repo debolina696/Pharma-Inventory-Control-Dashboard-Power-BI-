@@ -18,7 +18,7 @@ It helps HR teams identify:
 - Promotion patterns  
 - Gender distribution  
 
----
+--- 
 
 ## 📌 Key KPIs Covered
 - Total Employees  
@@ -330,4 +330,4 @@ This enables **root-cause analysis** behind department-level performance.
 ✅ **This page acts as the decision-support and root-cause analysis layer of the Pharma Analytics solution.**
 - Dashboard link of Page 3 - https://github.com/debolina696/Pharma-Inventory-Control-Dashboard-Power-BI-/blob/main/Screenshot%202025-12-20%20210005.png
 - DrillTrhrough Page link - https://github.com/debolina696/Pharma-Inventory-Control-Dashboard-Power-BI-/blob/main/Screenshot%202025-12-20%20210240.png
-- Dtasource Kaggle datasets 
+- Dtasource Kaggle datasets https://d.docs.live.net/a7bc2942f047e99a/Desktop/PowerBI_Inventory_HR_LargeDataset.xlsx
